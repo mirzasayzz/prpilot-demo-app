@@ -5,3 +5,8 @@ def index():
 
 if __name__ == "__main__":
     print(index())
+
+def login(user, password):
+    # bad code
+    if password == "admin123":
+        return True
