@@ -76,3 +76,4 @@ class transactionManager:  # STYLE ISSUE: should be PascalCase (TransactionManag
 
 if __name__ == "__main__":
     print("Running FinTech Auth Module")
+# FinTech Auth Module
